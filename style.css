@@ -1,0 +1,56 @@
+/* elements in html = selectors in css */
+.container
+  {
+    width:960px; margin:20px auto;
+    background-color: gray;
+  }
+nav ul {
+   border-top:1px #666 solid; border-bottom: 1px #666 solid; margin:20px 0; padding:10px 0;  }
+
+li{ display: inline; }
+
+.navbar
+  {
+    width:940px; margin:20px auto;
+    /* border: 10px solid black; */
+    padding: 10px;
+    font-size: 20px;
+    color: green;
+    background-color: lightgray;
+    /* position: fixed; */
+    top: 0;
+  }
+.main-paragraph
+  {
+    color: black;
+    margin-bottom: 100px;
+  }
+footer
+  {
+    background-color: lightgray;
+    margin-bottom: 100px;
+    color: green;
+    /* position:
+    bottom: 0; */
+    padding: 15px;
+  }
+h1
+  {
+    margin-left: 20px;
+    color: red;
+    font-size: 40px;
+    font-family: 'KoHo', sans-serif;
+   }
+h2
+  {
+    border: 25px dotted green;
+  }
+/* body
+  {
+    background-color: gray;
+  } */
+img
+  {
+    width: 400px;
+    height: 400px;
+  }
